@@ -1,0 +1,6 @@
+/Users/jonghopark/Desktop/CIS4930/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.deps.json
+/Users/jonghopark/Desktop/CIS4930/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.runtimeconfig.json
+/Users/jonghopark/Desktop/CIS4930/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.pdb
+/Users/jonghopark/Desktop/CIS4930/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/jonghopark/Desktop/CIS4930/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/jonghopark/Desktop/CIS4930/EsepWebhook/src/EsepWebhook/bin/Release/net6.0/publish/EsepWebhook.dll
